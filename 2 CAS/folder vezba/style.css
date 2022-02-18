@@ -1,0 +1,23 @@
+.prvistil {
+  font-size: 50px;
+  color: red;
+  background-color: grey;
+  weight: 250px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h1 {
+  color: blueviolet;
+  font-size: 40px;
+  background-color: grey;
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 20px;
+}
+
+img {
+  width: 540px;
+  height: 550px;
+  border: 2px;
+  border-radius: 20px;
+  align-items:stretch;
+}
