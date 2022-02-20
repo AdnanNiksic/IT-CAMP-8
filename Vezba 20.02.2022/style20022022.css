@@ -1,0 +1,21 @@
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  outline-style: groove;
+  text-align: right;
+}
+p {
+  color: red;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+a {
+  color: green;
+  font-size: 20px;
+  text-decoration: line-through;
+  border-style: solid;
+  padding-left: 30px;
+  margin-right: 40px;
+  background-color: gray;
+}
