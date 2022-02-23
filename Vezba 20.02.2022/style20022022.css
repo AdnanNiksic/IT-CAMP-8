@@ -19,3 +19,12 @@ a {
   margin-right: 40px;
   background-color: gray;
 }
+a.three:link {
+  color: #ff0000;
+}
+a.three:visited {
+  color: #0000ff;
+}
+a.three:hover {
+  background: #66ff66;
+}

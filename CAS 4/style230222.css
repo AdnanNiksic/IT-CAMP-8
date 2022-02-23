@@ -1,0 +1,17 @@
+.okvir {
+  width: 355px;
+  height: 165px;
+  background-color: rgb(228, 225, 225);
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 13px;
+}
+.naslov {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.odozgo {
+  padding-top: 17px;
+}
