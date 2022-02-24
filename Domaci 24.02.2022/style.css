@@ -1,0 +1,51 @@
+.zajednicko1 {
+  border-bottom: 1px grey solid;
+  width: 898px;
+  height: 208px;
+  display: flex;
+  margin-top: 55px;
+  margin-left: 388px;
+  background-color:
+  color: gray;
+}
+
+.tekst {
+  margin-left: 25px;
+  margin-top: 18px;
+}
+
+.slika {
+  width: 177px;
+  height: 174px;
+}
+
+.bojaZaH7 {
+  color: #6d27ad;
+}
+
+.top2 {
+  margin-top: 19px;
+}
+.top3 {
+  margin-top: 166px;
+}
+
+.tekstSredisnji {
+    margin-left:-20px
+    margin-top: 30px;
+}
+.slikadesno {
+    width: 177px;
+    height: 174px;
+    
+  }
+
+.zajednicko2 {
+    border-bottom: 1px grey solid;
+    width: 898px;
+    height: 208px;
+    display: flex;
+    margin-top: 45px;
+    margin-left: 388px;
+    background-color:
+}
