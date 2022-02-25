@@ -1,0 +1,28 @@
+.div {
+  display: inline-block;
+}
+
+.prviDiv {
+  border: 5px black solid;
+  width: 250px;
+  height: 250px;
+  background-color: green;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.drugiDiv {
+  border: 5px black solid;
+  width: 250px;
+  height: 250px;
+  background-color: yellow;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.treciDiv {
+  border: 5px black solid;
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  margin-left: 600px;
+  margin-top: 100px;
+}
