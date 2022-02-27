@@ -1,0 +1,19 @@
+.container {
+  width: 1200px;
+  height: 800px;
+  background-color: green;
+}
+
+.zaglavlje {
+  width: 300px;
+  height: 118px;
+  background-color: blue;
+  padding-top: 12px;
+  padding-left: 10px;
+  display: inline-block;
+}
+.tekst {
+  width: 299px;
+  height: 222px;
+  background-color: red;
+}
