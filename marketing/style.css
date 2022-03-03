@@ -1,0 +1,264 @@
+
+
+.home,
+.about,
+.plans,
+.contact {
+  height: 45px;
+  width: 468px;
+  font-size: 27px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-top:10px;
+  background-color:rgb(233, 231, 231);
+  display: inline-block;
+  text-align:center;
+  position:sticky;
+  top:0px;
+}
+
+.header:hover, .home:hover, .about:hover, .plans:hover, .contact:hover {
+  background-color: grey
+}
+
+.marketing {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: relative;
+  left: 305px;
+  top: 30px;
+  font-size: 45px;
+  width:300px;  
+}
+
+.template {
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: relative;
+  left: 304px;
+  top: 25px;
+  width:300px;
+  
+}
+
+.imgmarketing1 {
+  width: 1294px;
+  height: 580px;
+  position: relative;
+  left: 304px;
+  top: 37px;
+}
+.lorem {
+  position: absolute;
+  left: 340px;
+  top: 257px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  padding-top: 9px;
+  padding-left: 44px;
+  height: 34px;
+  width: 169px;
+}
+
+.offer {
+  border-bottom: 7px solid gray;
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: absolute;
+  left: 871px;
+  top: 880px;
+}
+
+.ponuda {
+    width:1286px;
+    height:224px;
+    position: relative;
+    left:312px;
+    font-size:18px;
+    font-family:font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    top: 230px;
+    }
+
+.card {
+  display:inline-block;
+  width:256px;
+  height:100%;
+  padding-left:38px;
+  padding-right:20px;
+  }
+
+  .pricing {
+    position: relative;
+    top: 316px;
+    left: 767px;
+    width: 379px;
+    height: 136px;
+    text-align: center;
+  }
+
+  .pricing h1 {
+    font-size: 32px;
+  }
+  .pricing p {
+    font-size:21px;
+  }
+
+.karticaContainer {
+position: relative;
+width:1278px;
+height:574px;
+left:312px;
+top:365px;
+}
+
+
+  .kartica {
+border: 1px solid rgb(189, 188, 188);
+position: absolute;
+width:401px;
+height:100%;
+left:0px;
+top:0px;
+
+  }
+
+  .karticaHeader {
+border: 1px solid rgb(189, 188, 188);
+position: relative;
+height:114px;
+left:0px;
+top:0px;
+background-color:black;
+color:white;
+text-align: center;    
+  }
+
+  .karticaHeader h1 {
+    padding-top:11px;
+  }
+
+  .karticaText1 {
+border: 1px solid rgb(189, 188, 188);
+position: relative;
+height:61px;
+left:0px;
+top:0px;
+text-align: center;
+  }
+
+  .karticaText1 p {
+    font-size:18px;
+    padding-top:3px;
+  }
+
+  .karticaText2 {
+border: 1px solid rgb(189, 188, 188);
+position: relative;
+width:33,33%;
+height:104px;
+left:0px;
+top:0px;
+text-align: center;
+  }
+
+  .karticaText2 p {
+    padding-bottom:5px;
+  }
+
+  .karticaFooter {
+border: 1px solid rgb(189, 188, 188);
+position: relative;
+width:33,33%;
+height:98px;
+left:0px;
+top:0px;
+background-color:rgb(241,241,241);
+color:white;
+text-align: center;
+  }
+
+  .button {
+    width:98px;
+    height:47px;
+    position: relative;
+    left:164px;
+    top:13px;
+    background-color:rgb(76,175,80);
+    color:white;
+    text-align: center;
+  }
+
+  .button p {
+    padding-top:14px;
+    padding-left:0px;
+    font-size: 18px;
+  }
+  .represent {
+    position: absolute;
+    top:2233px;
+    left:861px;
+    border-bottom: 7px solid gray;
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+
+  .representing {
+  position: relative;
+  width:1278px;
+  height:542px;
+  left:312px;
+  top:592px;
+  
+  }
+
+  .representingCard {
+    position: absolute;
+    border:1px solid;
+    width:400px;
+    height:100%;
+    box-shadow: 5px 5px 5px 5px #888888;
+  }
+  .representingheader {
+    position: absolute;
+    border:1px solid;
+    width:100%;
+    height:50%;
+  }
+
+  .representingfooter {
+    position: absolute;
+    bottom:0px;
+    border:1px solid;
+    background-color:rgb(241,241,241);
+    width:358px;
+    height:44px;
+    margin-left:18px;
+    margin-bottom:10px;
+    text-align: center;
+    padding-top:19px;
+    font-size:24px;
+  }
+
+  .representingtext {
+    position: absolute;
+    width:376px;
+    height:184px;
+    top:50%;
+    padding-left:24px;
+  }
+
+  .slikadiv {
+position: absolute;
+    width:100%;
+    height:100%;
+  }
+
+  .representingfooter:hover {
+    background-color:grey;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color:grey;
+    cursor: pointer;
+    
+  }
