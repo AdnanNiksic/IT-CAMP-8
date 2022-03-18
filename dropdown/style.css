@@ -1,0 +1,33 @@
+.buzz {
+  width: 860px;
+  margin: 0 auto;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  margin-top: 2%;
+  display: inline-block;
+}
+
+.buzz ul li {
+  background-color: #262626;
+  width: 170px;
+  border: 1px solid #fff;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  float: 
+  color: #fff;
+  font-size: 14px;
+  position: 
+  display: 
+}
+
+.buzz ul li:hover {
+  background: crimson;
+}
+
+.buz ul ul {
+  display: none;
+}

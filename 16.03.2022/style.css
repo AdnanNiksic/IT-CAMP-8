@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 30px;
+}
+
+.header {
+  width: 100vw;
+  height: 10vh;
+  background-color: yellow;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 80vh;
+}
+
+.nav {
+  width: 12vw;
+  height: 76vh;
+  background-color: yellow;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.article {
+  width: 74vw;
+  height: 76vh;
+  background-color: yellow;
+  display: inline-block;
+}
+
+.ads {
+  width: 12vw;
+  height: 76vh;
+  background-color: yellow;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer {
+  width: 100vw;
+  height: 10vh;
+  background-color: yellow;
+}
+
+@media screen and (max-width: 600px) {
+  main {
+    flex-direction: row;
+  }
+}
